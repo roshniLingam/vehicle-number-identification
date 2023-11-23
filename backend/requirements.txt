@@ -1,0 +1,7 @@
+Flask
+imutils
+scikit-image
+numpy
+pytesseract
+opencv-python
+flask-cors
